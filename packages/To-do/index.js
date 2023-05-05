@@ -35,5 +35,6 @@ function render(arr) {
     return listDiv;
   });
 
+  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
   listsEl.replaceChildren(...newArr);
 }
