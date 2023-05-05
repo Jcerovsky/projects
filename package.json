@@ -1,7 +1,6 @@
 {
-  "name": "to-do",
-  "version": "1.0.0",
   "devDependencies": {
     "prettier": "^2.8.8"
-  }
+  },
+  "version": "1.0.0"
 }
